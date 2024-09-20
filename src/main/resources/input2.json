@@ -1,0 +1,53 @@
+{
+    "planCostShares": {
+        "deductible": 100,
+        "_org": "example8.com",
+        "copay": 22,
+        "objectId": "1234vxc2324sdf-501",
+        "objectType": "membercostshare"
+    },
+    "linkedPlanServices": [
+        {
+            "linkedService": {
+                "_org": "example.com",
+                "objectId": "1234520xvc30sfs-505",
+                "objectType": "service",
+                "name": "well baby"
+            },
+            "planserviceCostShares": {
+                "deductible": 10,
+                "_org": "example.com",
+                "copay": 175,
+                "objectId": "1234512xvc1314sdfsd-506",
+                "objectType": "membercostshare"
+            },
+            "_org": "example_1.com",
+            "objectId": "27283xvx9sdf-508",
+            "objectType": "planservice"
+        },
+                {
+            "linkedService": {
+                "_org": "example.com",
+                "objectId": "1234520xvc30sfs-505",
+                "objectType": "service",
+                "name": "well baby"
+            },
+            "planserviceCostShares": {
+                "deductible": 10,
+                "_org": "example.com",
+                "copay": 175,
+                "objectId": "1234512xvc1314sdfsd-506",
+                "objectType": "membercostshare"
+            },
+            "_org": "example_1.com",
+            "objectId": "27283xvx9sdf-509",
+            "objectType": "planservice"
+        }
+    ],
+    
+    "_org": "example1.com",
+    "objectId": "12xvxc345ssdsds-508",
+    "objectType": "plan",
+    "planType": "outNetwork",
+    "creationDate": "12-12-2017"
+}
